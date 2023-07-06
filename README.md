@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-kanban)](https://github.com/Chernosmaga/java-kanban)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=hangman-game)](https://github.com/Chernosmaga/hangman-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=hangman-game)]([https://github.com/Chernosmaga/hangman-game](https://github.com/Chernosmaga/hangman-game))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=salary-counter)](https://github.com/Chernosmaga/salary-counter)
 
