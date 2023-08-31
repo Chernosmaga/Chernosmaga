@@ -16,7 +16,7 @@
 
 <h1 align="center">ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-filmorate)](https://github.com/Chernosmaga/java-filmorate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elite-tea&repo=java-filmorate)](https://github.com/Elite-tea/java-filmorate)
 
 <h1 align="center">𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕚𝕖𝕤</h1>
 
