@@ -11,6 +11,7 @@
 <h1 align="center">Currently working on</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-shareit)](https://github.com/Chernosmaga/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)]((https://github.com/Chernosmaga/java-waiter))
 
 <h1 align="center">Group project</h1>
 
