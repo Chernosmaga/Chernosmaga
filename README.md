@@ -12,6 +12,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-shareit)](https://github.com/Chernosmaga/java-shareit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)](https://github.com/Chernosmaga/java-waiter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=later)](https://github.com/Chernosmaga/later)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=catsgram)](https://github.com/Chernosmaga/catsgram)
 
 <h1 align="center">Group project</h1>
 
