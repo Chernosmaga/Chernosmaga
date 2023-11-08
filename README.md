@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Secular+One&size=30&pause=1000&color=F7F7F7&width=550&lines=Hi+there%2C+my+name+is+Sergey;I'm+studying+computer+science;Here's+the+main+projects;I've+been+working+on)](https://git.io/typing-svg)
+![](https://github.com/Chernosmaga/Chernosmaga/blob/main/%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80.jpg)
 
 <h1 align="center">Already finished projects</h1>
 
