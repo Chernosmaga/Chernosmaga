@@ -12,8 +12,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-shareit)](https://github.com/Chernosmaga/java-shareit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)](https://github.com/Chernosmaga/java-waiter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=later)](https://github.com/Chernosmaga/later)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=catsgram)](https://github.com/Chernosmaga/catsgram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=later)](https://github.com/Chernosmaga/later)
 
 <h1 align="center">Group project</h1>
 
@@ -22,7 +22,6 @@
 <h1 align="center">Peer review projects</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=reverse-polish-notation)](https://github.com/Chernosmaga/reverse-polish-notation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=m1-t12-code-style)](https://github.com/Chernosmaga/m1-t12-code-style)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=leap-year)](https://github.com/Chernosmaga/leap-year)
 
 <h1 align="center">GitHub profile trophies</h1>
