@@ -1,5 +1,10 @@
 ![](https://github.com/Chernosmaga/Chernosmaga/blob/main/%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80.jpg)
 
+<h1 align="center">Graduation project</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-explore-with-me)](https://github.com/Chernosmaga/java-explore-with-me)
+
+
 <h1 align="center">Already finished projects</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-kanban)](https://github.com/Chernosmaga/java-kanban)
