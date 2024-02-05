@@ -1,4 +1,4 @@
-![](https://github.com/Chernosmaga/Chernosmaga/blob/main/%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80.jpg)
+![](https://github.com/Chernosmaga/Chernosmaga/blob/main/banner.jpg)
 
 <h1 align="center">Graduation project</h1>
 
