@@ -1,4 +1,4 @@
-![](https://github.com/Chernosmaga/Chernosmaga/blob/main/banner.jpg)
+![]()
 
 <h1 align="center">Graduation project</h1>
 
