@@ -9,12 +9,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-sprint1-hw)](https://github.com/Chernosmaga/java-sprint1-hw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-sprint2-hw)](https://github.com/Chernosmaga/java-sprint2-hw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-shareit)](https://github.com/Chernosmaga/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)](https://github.com/Chernosmaga/java-waiter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=catsgram)](https://github.com/Chernosmaga/catsgram)
 
 <h1 align="center">Currently working on</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=parking)](https://github.com/Chernosmaga/parking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)](https://github.com/Chernosmaga/java-waiter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=catsgram)](https://github.com/Chernosmaga/catsgram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=later)](https://github.com/Chernosmaga/later)
 
 <h1 align="center">Group project</h1>
