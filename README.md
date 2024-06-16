@@ -1,5 +1,10 @@
 ![](https://github.com/Chernosmaga/Chernosmaga/blob/main/banner.png)
 
+<h1 align="center">Currently working on</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=parking)](https://github.com/Chernosmaga/parking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Qualiter&repo=vetcabinet)](https://github.com/Qualiter/vetcabinet)
+
 <h1 align="center">Already finished projects</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-explore-with-me)](https://github.com/Chernosmaga/java-explore-with-me)
@@ -11,10 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-shareit)](https://github.com/Chernosmaga/java-shareit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-waiter)](https://github.com/Chernosmaga/java-waiter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=catsgram)](https://github.com/Chernosmaga/catsgram)
-
-<h1 align="center">Currently working on</h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=parking)](https://github.com/Chernosmaga/parking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=later)](https://github.com/Chernosmaga/later)
 
 <h1 align="center">Group project</h1>
