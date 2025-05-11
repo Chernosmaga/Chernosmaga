@@ -1,12 +1,9 @@
 ![](https://github.com/Chernosmaga/Chernosmaga/blob/main/banner.png)
 
-<h1 align="center">Currently working on</h1>
+<h1 align="center">Already finished projects</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=parking)](https://github.com/Chernosmaga/parking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Qualiter&repo=vetcabinet)](https://github.com/Qualiter/vetcabinet)
-
-<h1 align="center">Already finished projects</h1>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-explore-with-me)](https://github.com/Chernosmaga/java-explore-with-me)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=java-kanban)](https://github.com/Chernosmaga/java-kanban)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chernosmaga&repo=hangman-game)](https://github.com/Chernosmaga/hangman-game)
